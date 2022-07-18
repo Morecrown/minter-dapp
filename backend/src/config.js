@@ -37,7 +37,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "eartz.netlify.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "eartz.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -92,12 +92,12 @@ try {
 // END NFTPort Info
 
 const solanaMetadata = {
-  symbol: "YC",
+  symbol: "BADW",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0xad868DeA7e8bD1D97C1b3A8d4CCA2E361049D3CA",
       share: 100,
     },
   ],
