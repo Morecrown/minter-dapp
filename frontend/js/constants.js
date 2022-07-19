@@ -1,5 +1,5 @@
-const contractAddress = "0xd45a690Ca17AcEaCA77C32DC60eAD1D505Bf3Ddd"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const contractAddress = "0x3D94ef8803FD8c7c46F3a02e143DF3f9Cc658a16"; // Replace with your own contract address
+const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Bored Ape Dark World NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
